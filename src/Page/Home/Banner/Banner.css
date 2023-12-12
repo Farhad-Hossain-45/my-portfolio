@@ -1,0 +1,15 @@
+#banner-bg{
+    
+    background-image: url(https://i.ibb.co/jvTmbxG/yuriy-kovalev-n-N1-HSDt-Kdlw-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+       
+    
+}
+.banner-image{
+    transform: 1s;
+}
+.banner-image:hover{
+        transform: scale(1.05);
+       
+}
